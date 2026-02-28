@@ -940,7 +940,7 @@ This is where real growth begins.
           </div>
         </div>
         <div className="max-w-7xl mx-auto border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm">
-          <p>© {new Date().getFullYear()} {config.Copyright}. All rights reserved.</p>
+          <p>© {new Date().getFullYear()}. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-white">Privacy</a>
             <a href="#" className="hover:text-white">Terms</a>
